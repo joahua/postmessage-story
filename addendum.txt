@@ -1,0 +1,27 @@
+
+
+
+Internet Explorer 8 and 9, and Firefox versions 3.6 and below only support strings.
+
+
+
+Of course, in the story the Parent would need to follow Evil Twin's instructions for there to be any actual risk of cookie theft. We haven't introduced a vulnerability per se, but if we were evaluating the Twin's message there'd be a problem.
+
+
+
+
+We also skipped over the part where Frame is impersonated by Evil Twin. This is a bit of a plot hole, because Parent is only checking to see that it came from a known child domain, which isn't secured so Evil Twin could just intercept and inject arbitrary data.
+
+
+
+
+Assuming that ET could only redirect the child to their own domain, but not insert any content, this would work. Not very plausible, though.
+
+
+
+The moral of the story is 'use SSL everywhere' and 'check your inputs'.
+
+
+
+
+http://dev.opera.com/articles/view/window-postmessage-messagechannel/

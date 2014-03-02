@@ -1,0 +1,364 @@
+
+
+
+
+
+
+,------.,------.   ,---.  ,--.   ,--.,------. 
+|  .---'|  .--. ' /  O  \ |   `.'   ||  .---' 
+|  `--, |  '--'.'|  .-.  ||  |'.'|  ||  `--,  
+|  |`   |  |\  \ |  | |  ||  |   |  ||  `---. 
+`--'    `--' '--'`--' `--'`--'   `--'`------' 
+	                               
+
+
+
+
+			ONE IFRAME'S STORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+Once upon a time, there was a page called Frame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame grew up in its Parent's house, living in the same domain.
+
+
+
+
+
+
+
+
+
+
+
+
+Frame had a friendly relationship with its Parent, and could talk to it about anything, whenever it wanted.
+
+It also shared its Parent's things - including sampling the cookie jar occasionally. Not that there's anything wrong with that once in a while.
+
+
+
+
+
+
+
+
+
+
+
+
+In time, Frame grew up. It got its own place – a domain of its own – and moved out of its Parent's place.
+
+
+
+
+
+
+
+
+
+
+
+
+Like any good Parent, Frame's wanted it to stay in touch. And Frame, being a good child, tried.
+
+[0]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+But Frame couldn't reach it's Parent. It tried to go and visit, but the locks had been changed, and the family dog, Security, was barking at it!
+
+	"SecurityError!", it yelped.
+
+	"Blocked a frame with origin 'child' from accessing a frame with origin 'parent'", it woofed, as its overly-enthusiastic tail-wag sent Frame on its way.
+
+Frame was confused – "Don't you know who I am?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame decided to take a walk around the block, and started to wonder if sending its Parent pictures of cats had been a bad idea…
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame had an idea.
+
+The dog, Security, might not want to let Frame in, but it couldn't stop Frame from leaving a message.
+
+Frame taped a sign to the front door:
+	
+	"Hi Parent! Security is being a real bitch and won't let me in. Anyway, happy birthday!" – it was Parent's birthday – "Enjoy the iTunes gift card!"
+
+And attached the gift card to the message.
+
+What could possibly go wrong?
+
+[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame was just sitting around, downloading some resources, and then realised what it had done.
+
+"Curse your sudden but inevitable paint job!" Frame <blink>ed, exasperatedly, realising that Parent's neighbours house had an indistinguishable façade.
+
+It was the wrong house. The iTunes voucher was gone. Damn music junkie neighbours.
+
+Birthday dreams, crushed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame would have to postpone chasing the neighbours, because things were about to take a turn for the worse. Frame's evil twin, Evil Twin, showed up.
+
+Evil Twin looked just like Frame, but the two could not be more different. Like Frame, Evil Twin had moved out – stealing all the cookies and their Parent's address book.
+
+"Evil Twin!", Frame exclaimed. "What are you doing here?"
+
+"Oh Frame, you're so naïve. I've been stealing cookies from Parent again!"
+
+Frame looked shocked. "But Parent would never let you in! And how did you get past Security?"
+
+[2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"I just walked right in", ET confessed. "Parent really has become rather blind with age."
+
+Evil Twin paused to wipe the crumbs away.
+
+"Those cookies were delicious."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame had to let its Parent know.
+
+This time, it left the note in an envelope:
+
+	To: Parent
+	Address: http://parent/
+
+	Message: "Evil Twin has returned."
+
+The address was right, this time…
+
+[3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parent, armed with this information, was alert at the door. It could hear movement outside.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Before opening the door, it asked a question only Frame would know. Evil Twin, shocked, scurried off into the bushes. Security was curled up in its kennel the whole time, but Parent was on top of it.
+
+[4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parent let Frame know it had foiled the attack.
+
+Sibling rivalry at its finest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frame had so much to tell Parent, it said a whole array of things!
+
+But when it tried to give Parent a gift (a JSON object, how thoughtful!), it wouldn't fit through the post. Parent's postbox was old; nearly as old as IE9.
+
+To make it fit, Frame turned it into a long string with a trick it learnt in wizard school. "JSON.stringify!" Frame said to the object.
+
+Luckily, its Parent was a JSON.parse-l tongue, so knew how to restore the string to the object it once was.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A few months later, Parent moved out of pleasantville with its rows of identically painted houses into a Secure compound. Frame was relieved. Parent could do with some protection from Evil Twin, even if its savvy door checking had saved an entire box of Tim Tams a few months back.
+
+The new house – a Chrome-plated palace with views over the Opera-house, Firefoxes frolicking in its extensive grounds – had a spacious mailbox that would happily accept objects of any size, so Frame sent Parent a package of deliciousness from its own cookie jar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+							   THE END
+
+
+
+
+
+
+
+
+
+
+
+

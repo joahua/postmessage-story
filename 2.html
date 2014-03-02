@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Crossframe test</title>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/topcoat/0.8.0/css/topcoat-mobile-light.css">
+<style>body{margin: 0 auto;max-width: 40rem; padding: 2rem}
+.attacker h1+p,
+.error {color:red;font-weight:bold}</style>
+</head>
+<body>
+<script>
+var domain = window.location.host.split('.')[0],
+	appendMessage = function (msg, err) {
+		var el = document.createElement('p');
+		el.innerText = msg;
+		if (err)
+			el.className = 'error';
+		document.body.appendChild(el);
+	};
+document.body.classList.add(domain);
+</script>
+
+<h1>Crossframe test</h1>
+<p><script>document.write(domain)</script></p>
+
+<script>
+if(domain !== 'attacker'){
+// parent
+	document.write('<iframe src="http://attacker.127.0.0.1.xip.io:8000/2.html"></iframe><h2>Messages:</h2>');
+	window.addEventListener('message',function(e) {
+			appendMessage(e.data);
+	});
+} else {
+// attacker
+	parent.postMessage('Muahahaha! COOKIES!!!','*'); // what could possibly go wrong?
+}
+</script>
